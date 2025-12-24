@@ -7,4 +7,4 @@ func _init() -> void:
 static func hello_client(p_source: String) -> void:
 	prints(p_source, "> Hello, Client!")
 	Network.hello_network("Client")
-	Utils.hello_network("Client")
+	Utils.hello_utils("Client")

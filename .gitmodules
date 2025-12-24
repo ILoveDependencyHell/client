@@ -1,0 +1,8 @@
+[submodule "Network"]
+	path = Network
+	url = https://github.com/ILoveDependencyHell/network
+	branch = network-submodule
+[submodule "Utils"]
+	path = Utils
+	url = https://github.com/ILoveDependencyHell/utils
+	branch = utils-submodule
